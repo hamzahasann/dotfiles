@@ -1,0 +1,4 @@
+{
+	"cmd": ["gnome-terminal -- /usr/local/bin/python-run.sh $file"],
+	"shell": true
+}

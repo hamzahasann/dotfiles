@@ -1,0 +1,19 @@
+{
+	"font_size": 12,
+	"font_face": "JetBrains Mono",
+	"font_options": ["no_liga", "no_clig", "no_calt"],
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Packages/sublime-master/Dracula.tmTheme",
+	"show_panel_on_build": false,
+	"ui_scale": 1.25,
+	"file_exclude_patterns": ["*.exe","*.out"],
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"auto_complete": false,
+	"enable_tab_scrolling": false,
+	"word_wrap": "true",
+	"hot_exit": "false",
+	"remember_open_files": false,
+}

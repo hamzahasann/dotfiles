@@ -1,0 +1,4 @@
+{
+	"cmd": ["alacritty -e /usr/local/bin/cpp-run.sh $file"],
+	"shell": true
+}

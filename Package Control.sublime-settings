@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Dracula Color Scheme",
+		"gruvbox",
+		"LSP",
+		"Package Control",
+		"PackageSync",
+		"RainbowBrackets",
+		"SublimeLinter-clang",
+		"Theme - One Dark",
+	],
+}
