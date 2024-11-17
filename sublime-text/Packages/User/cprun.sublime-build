@@ -1,0 +1,4 @@
+{
+	"cmd": ["alacritty -e ~/.scripts/cprun.sh $file"],
+	"shell": true
+}

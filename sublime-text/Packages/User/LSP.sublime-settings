@@ -1,0 +1,11 @@
+{
+  "clients": {
+    "clangd": {
+      "enabled": true,
+      "command": ["clangd"],
+      "scopes": ["source.cpp", "source.c", "source.objc", "source.objcpp"],
+      "languageId": "cpp",
+      "syntaxes": ["Packages/C++/C++.sublime-syntax"]
+    }
+  }
+}
