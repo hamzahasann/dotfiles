@@ -118,4 +118,3 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH="$PATH:$HOME/Apps/nvim-linux64/bin"
 export PATH=$PATH:$HOME/.scripts
-export http_proxy="http://174.140.70.85:30002"
